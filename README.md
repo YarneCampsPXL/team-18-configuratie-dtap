@@ -1,1 +1,1 @@
-# team-18-configuratie-dtap
+deze repo bevat de 2 css files voor devops opdracht6-dtap
